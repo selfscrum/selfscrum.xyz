@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on SELFSCRUM goes web3</title>
+    <link>https://selfscrum.xyz/home/</link>
+    <description>Recent content in Homes on SELFSCRUM goes web3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://selfscrum.xyz/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w0/</guid>
+      <description>Format #lernOS Circle
+ W1-4: git und Markdown in einem eigenen Beispiel W5-8: git Konzepte, Tools und Lern-Setting W9-12: lernOS Guide schreiben  ...oder?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w1/</guid>
+      <description>  Woche 1 - Verbinden  Motivation  Was lernst du gerade? Warum bist du hier? Was kennst du schon? Was ist dein Projekt? ogy.de/git-for-kids   Die Bausteine  Die besten Ressourcen Markdown  Freundliches Tutorial: ogy.de/md-tutorial Referenz: ogy.de/md-referenz Deutsche Übersetzung: ogy.de/md-deutsch  &amp;ndash;
+Git  Einfacher Einstieg: ogy.de/git-einstieg Freundlicher Video-Kurs: ogy.de/git-video Referenz: ogy.de/git-referenz   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w2/</guid>
+      <description> Woche 2 - Grundlegendes  Today  Checkin - was hast du letzte Woche gelernt? (2min) Nextcloud Git Bash installieren  Einen lokalen Git-Zyklus durchlaufen Checkout - was machst du nächste Woche? (1min)   git Bash  Unser &#34;Schweizer Taschenmesser&#34; Windows: gitforwindows.org Mac: downloads.digitaltrends.com/git/mac    Git Zyklen  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w3/</guid>
+      <description> Woche 3 - Remote Work  Today  Checkin - was hast du letzte Woche gelernt? (2min) Einen Github Account eröffnen  Einen remote Git-Zyklus durchlaufen Checkout - was machst du nächste Woche? (1min)   Github  Die größte Open Source Community Plattform 40 Millionen Benutzer, 44 Millionen Projekte State of the Octoverse    Git Repository Cheat Sheet Und jetzt? &amp;ndash;&amp;gt; Cheat Sheet
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w4/</guid>
+      <description> Woche 4 - Branches  Today  Checkin - was hast du letzte Woche gelernt? (2min) Branches kennenlernen: https://learngitbranching.js.org Das weitere Vorgehen planen Checkout - was machst du nächste Woche? (1min)   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w5/</guid>
+      <description> Woche 5 - Mindmap für den Guide </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w6/</guid>
+      <description> Woche 6 - Den Guide bauen  TODAY  Checkin - Seid ihr noch dabei? (2min) Hugo als Basis Checkout - was machst du nächste Woche? (1min)   Woche 6 - Bauplan  Struktur: Unsere Mindmap Träger: Hugo Repo Prozess: Branches und Pull Requests Inhalte: Wer tut was?   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://selfscrum.xyz/home/w9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://selfscrum.xyz/home/w9/</guid>
+      <description> Woche 9 - Struktur und Inhalt  Today  Checkin - was hast du letzte Woche gelernt? (2min) Unsere Dokumentationsstruktur Noch offene Inhalte Checkout - was machst du nächste Woche? (1min)   Git Zyklen  </description>
+    </item>
+    
+  </channel>
+</rss>
