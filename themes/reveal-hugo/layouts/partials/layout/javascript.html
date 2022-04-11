@@ -1,5 +1,5 @@
 <!-- polyfill needed for IE11 and below -->
-<script type="text/javascript" src={{ "reveal-hugo/object-assign.js" | relURL }}></script>
+<script type="text/javascript" src={{ "./reveal-hugo/object-assign.js" }}></script>
 <!-- Printing and PDF exports -->
 <!-- use Hugo to create the right path for the print stylesheet, then conditionally include it -->
 {{- $reveal_location := $.Param "reveal_hugo.reveal_cdn" | default "reveal-js" -}}

@@ -16,3 +16,5 @@ isHTML = true
 
 [params.reveal_hugo]
 theme = "moon"
+reveal_cdn = "./reveal-js"
+highlight_cdn = "./highlight-js"
