@@ -16,8 +16,9 @@ weight=10
 
 ## Why?
 
-* Web3 unlocks a big potential for networked, independent organizations.
-* Within education, we have an urgent need towards self-directed enablement.
+* Within education, we have an urgent need towards self-directed learning.
+* We see that the current education system is unable to reform itself.
+* Web3 unlocks a big potential for new, networked, independent organizations.
 * The knowledge chasm between those two domains is incredible deep.
 * This initiative aims to connect both worlds with a learning experience.
 * Stay tuned - and check our [regular web site](https://www.selfscrum.org/en) too :)
