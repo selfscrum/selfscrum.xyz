@@ -1,5 +1,6 @@
 baseURL = "https://selfscrum.xyz"
 languageCode = "en-us"
+canonifyURLs = false
 
 title = "SELFSCRUM goes web3"
 
