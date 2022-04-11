@@ -12,12 +12,14 @@ weight=10
 
 ---
 
-{{< slide id="Warum"  transition="fade" transition-speed="fast" >}}
+{{< slide id="Why"  transition="fade" transition-speed="fast" >}}
 
-## Warum?
+## Why?
 
-* Web3 ist eine junge Technologie.
-* Hierzulande haben viele kein Wissen darüber.
-* Das wollen wir ändern.
+* Web3 unlocks a big potential for networked, independent organizations.
+* With education, we have a big domain in urgent need of reform.
+* The knowledge chasm between those two domains is incredible deep.
+* This initiative aims to connect both worlds with a learning experience.
+* Stay tuned :)
 
 ---
