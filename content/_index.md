@@ -20,6 +20,6 @@ weight=10
 * With education, we have a big domain in urgent need of reform.
 * The knowledge chasm between those two domains is incredible deep.
 * This initiative aims to connect both worlds with a learning experience.
-* Stay tuned - and check our [regular web site](https://www.selfscrum.org) too :)
+* Stay tuned - and check our [regular web site](https://www.selfscrum.org/en) too :)
 
 ---
