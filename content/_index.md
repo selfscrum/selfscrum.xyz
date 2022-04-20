@@ -21,6 +21,12 @@ weight=10
 * Web3 unlocks a big potential for new, networked, independent organizations.
 * The knowledge chasm between those two domains is incredible deep.
 * This initiative aims to connect both worlds with a learning experience.
-* Stay tuned - and check our [regular web site](https://www.selfscrum.org/en) too :)
 
 ---
+{{< slide id="hello" background="#A35000" transition="fade" transition-speed="fast" >}}
+
+<h3 style="color: #FFF;">First Baby Steps</h3>
+
+![learn-web3](https://res.cloudinary.com/dzw4emsdt/image/upload/c_pad,h_500,w_1000/v1649710475/selfscrum/DAO-Experte-EN_ad5imo.png)
+ 
+<p style="color: #FFF;">Stay tuned - and check our <a href="https://www.selfscrum.org/en/blog"  style="color: #FFF;text-decoration: underline;">regular web site</a> too :)</p>
